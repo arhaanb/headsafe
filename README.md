@@ -1,5 +1,7 @@
 # HeadSafe
 
+> Headphone Safety for macOS.
+
 A tiny macOS menu bar app that sets a maximum volume limit when headphones or earphones are connected. Similar to iPhones.
 
 ## How it works
